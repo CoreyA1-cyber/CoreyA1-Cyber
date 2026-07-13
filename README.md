@@ -1,5 +1,5 @@
 
-<!--# Hey, I'm Corey Armstrong 👋
+ Hey, I'm Corey Armstrong 👋
 
 **Cybersecurity Professional | Orlando, FL**
 CompTIA Security+ · ISC² CC · Blue Team Level 1 · UCF Alumni 
