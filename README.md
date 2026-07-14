@@ -7,7 +7,7 @@ CompTIA Security+ · ISC² CC · Blue Team Level 1 · UCF Alumni
 
 ## What I'm About
 
-I build things to prove I understand them. Every repo here is a standalone lab — real investigations, real tooling, real write-ups.
+I build things to prove I understand them. Every repo here is a standalone lab. Real investigations, real tooling, real write-ups.
 
 Currently focused on **SOC operations, threat analysis, and detection engineering.**
 
