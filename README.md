@@ -1,52 +1,31 @@
+## Hi, I'm Corey 👋
 
- Hi, I'm Corey Armstrong 👋
+Early-career **infrastructure technician** with a build-and-break approach to learning. I design, cable, and operate a physical multi-VLAN enterprise lab and run it with real operational discipline — documented change procedures, incident reports with root-cause analysis, and rollback plans.
 
-**Cybersecurity Professional | Orlando, FL**
-CompTIA Security+ · ISC² CC · Blue Team Level 1 · UCF Alumni 
----
-
-## What I'm About
-
-I build things to prove I understand them. Every repo here is a standalone lab. Real investigations, real tooling, real write-ups.
-
-Currently focused on **SOC operations, threat analysis, and detection engineering.**
+🎯 **Open to roles in:** Infrastructure Support · Linux Administration · Data Center Operations · NOC · Systems Administration
+📍 Orlando, FL — open to relocating
+📫 corey.armstrong.it@gmail.com
 
 ---
 
-## Labs
+### 🛠️ What I work with
 
-| Lab | What It Proves | Key Skills |
-|-----|---------------|------------|
-| [Phishing Investigation](https://github.com/CoreyA1-cyber/phishing-investigation) | End-to-end email triage — headers, IOCs, threat intel enrichment, risk scoring | Email analysis · Python · VirusTotal/AbuseIPDB APIs |
-
----
-
-## Technical Skills
-
-```
-Security Operations  →  Splunk SIEM · Log Analysis · Threat Detection · IDS/IPS
-Network Security     →  pfSense · VLANs · Firewall Rules · ACLs · NAT
-Email Security       →  SPF/DKIM/DMARC · Header Analysis · Phishing Triage
-Systems              →  Linux (RHEL) · Proxmox · Docker · Windows AD
-Networking           →  TCP/IP · OSI · Subnetting · Routing & Switching
-Scripting            →  Python (security automation, API integration)
-Tools                →  Wireshark · Nmap · VirusTotal · AbuseIPDB · URLhaus
-```
+**Linux:** RHEL 10 · systemd · LVM · SELinux · firewalld · SSH hardening · Bash
+**Windows:** Server 2022 · Active Directory · Group Policy · PowerShell
+**Networking:** VLANs · 802.1Q · pfSense · OpenVPN · DNS · DHCP · packet capture
+**Virtualization & Monitoring:** Proxmox · Splunk · Universal Forwarders
+**Practices:** MOPs & change management · incident response · RCA · documentation
 
 ---
 
-## Certifications
+### 📌 Featured Project
 
-- ✅ **CompTIA Security+** — 2026
-- ✅ **ISC² Certified in Cybersecurity (CC)** 
-- ✅ **Blue Team Level 1** — Security Blue Team
+**[Enterprise Infrastructure Operations Lab](https://github.com/CoreyA1-cyber/enterprise-infrastructure-operations-lab)**
+A physical, multi-VLAN enterprise environment — firewall, domain controller, Linux servers, and centralized logging — built, documented, and deliberately broken and restored under documented procedures. Includes incident reports, root-cause analyses, change records (MOPs), and a knowledge-base article.
 
 ---
 
-## Let's Connect
+### 📜 Certifications
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Corey%20Armstrong-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/corey-armstrong-625155222)
-[![Email](https://img.shields.io/badge/Email-coreyarmstrong2001%40gmail.com-D14836?style=flat&logo=gmail)](mailto:coreyarmstrong2001@gmail.com)
-
-* SOC Analyst / Cybersecurity Analyst / Threat Analyst roles — Orlando area or remote.*
-
+CompTIA Security+ · ISC2 Certified in Cybersecurity (CC) · Blue Team Level 1 (BTL1)
+🔄 Red Hat
