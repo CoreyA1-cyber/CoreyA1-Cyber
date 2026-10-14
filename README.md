@@ -65,9 +65,3 @@ Everything here is self-directed lab and project work. I build the scenarios mys
 
 
 
-
-
-### 📌 Featured Project
-
-**[Enterprise Infrastructure Operations Lab](https://github.com/CoreyA1-cyber/enterprise-infrastructure-operations-lab)**
-A physical, multi-VLAN enterprise environment — firewall, domain controller, Linux servers, and centralized logging — built, documented, and deliberately broken and restored under documented procedures. Includes incident reports, root-cause analyses, change records (MOPs), and a knowledge-base article.
